@@ -1,2 +1,1 @@
-##ALX Program 2022
-Okoth Trevor
+My ALX printf collaboration project
